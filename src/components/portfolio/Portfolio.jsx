@@ -8,7 +8,7 @@ const items = [
     id: 1,
     title: "Inventory Dashboard",
     link: "https://inventoryxdashboard.netlify.app",
-    img: "/inventory.png",
+    img: "/inv.png",
     desc: "Transforming inventory management, I engineered a sleek and intuitive dashboard. Unleash the power of real-time insights with a visually appealing interface, ensuring seamless control over your inventory at a glance",
   },
   {
@@ -22,7 +22,7 @@ const items = [
     id: 3,
     title: "Reviv Style",
     link: "https://zaineli.github.io/RevivStyle/",
-    img: "https://private-user-images.githubusercontent.com/113494181/270767702-bf22bc0d-2df8-461e-ae82-3908fb12e18a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0MzIzMTMsIm5iZiI6MTcwNTQzMjAxMywicGF0aCI6Ii8xMTM0OTQxODEvMjcwNzY3NzAyLWJmMjJiYzBkLTJkZjgtNDYxZS1hZTgyLTM5MDhmYjEyZTE4YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExNlQxOTA2NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NjQ1OGZlOTIyZTVkZGY5MTQ1YTE4MjhiNmZiOGNjYWIwNzE1NWY2ZTNmMDE2ODljNjZmOThhNTBhMWUxZmVhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ObMOcf-tD70RIc0Nkd0of0KnrgHh3ZVxnvsSWjPI8cQ",
+    img: "/rev.png",
     desc: "I curated a captivating fashion profile that transcends trends, blending timeless elegance with contemporary flair. This project reflects my ability to capture the essence of individual style, creating a visually stunning showcase that resonates with a diverse and fashion-forward audience.",
   },
   {
