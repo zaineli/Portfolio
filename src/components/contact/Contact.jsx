@@ -58,11 +58,11 @@ const Contact = () => {
         <motion.h1 variants={variants}>Let’s work together</motion.h1>
         <motion.div className="item" variants={variants}>
           <h2>Mail</h2>
-          <span>xaineli9@gmail.com</span>
+          <span>zali.bscs22seecs@seecs.edu.pk</span>
         </motion.div>
         <motion.div className="item" variants={variants}>
           <h2>Address</h2>
-          <span>Hello from Pakistan</span>
+          <span>Hello from Aztro</span>
         </motion.div>
         <motion.div className="item" variants={variants}>
           <h2>Phone</h2>
@@ -109,7 +109,7 @@ const Contact = () => {
           <input type="text" required placeholder="Name" name="name"/>
           <input type="email" required placeholder="Email" name="email"/>
           <textarea rows={8} placeholder="Message" name="message"/>
-          <button>Submit</button>
+          <button><a href="mailto:zali.bscs22seecs@seecs.edu.pk"></a>Submit</button>
           {error && "Error"}
           {success && "Success"}
         </motion.form>
